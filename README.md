@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kartikhunter/Kartikhunter/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kartikhunter/Kartikhunter/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
