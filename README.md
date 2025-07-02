@@ -82,8 +82,6 @@ I'm **[`kartik`](https://x.com/kartikxd)**, a Ethical hacker & Security Research
 
 ---
 
-<br>
-
 <img src="https://raw.githubusercontent.com/Kartikhunter/Kartikhunter/output/snake.svg" alt="Snake animation"/>
 
 ---
