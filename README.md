@@ -1,8 +1,30 @@
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+I'm **[`kartik`](https://x.com/kartikxd)**, a Ethical hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in Penetration Testing, vulnerability assessment, Red Teaming and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Kartik+Garg+(Kraken)" alt="Typing SVG" />
+  </a>
+</div>
+
+<details>
+  <summary>More about me</summary>
+
 - 👋 Hi, I’m @Kartikhunter
-- 👀 I’m interested in Penetration Testing & Red Teaming
-- 🌱 I’m currently learning Red Teaming
+- 🐞 **Bug Hunter** | **Security Researcher** | **Red Teamer**
+- 🌱 Currently learning in **Webapp Vulnerabilities & Red Teaming**
 - 💞️ I’m looking to collaborate on Bugcrowd & Bug Bounty
+- 🤖 Lifelong learner — always exploring **everything**
 - 📫 How to reach me ...
+
+</details>
+<br>
 
 ###
 
@@ -93,4 +115,12 @@
 <!---
 Kartikhunter/Kartikhunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!---
+- 👋 Hi, I’m @Kartikhunter
+- 👀 I’m interested in Penetration Testing & Red Teaming
+- 🌱 I’m currently learning Red Teaming
+- 💞️ I’m looking to collaborate on Bugcrowd & Bug Bounty
+- 📫 How to reach me ...
 --->
